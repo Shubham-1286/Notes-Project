@@ -30,7 +30,7 @@ A simple notes app built with React and Vite. It allows users to add notes with 
 1. Clone the repository:
 
 `ash
-git clone <your-repo-url>
+git clone https://github.com/Shubham-1286/Notes-Project
 cd notes-project
 `
 
